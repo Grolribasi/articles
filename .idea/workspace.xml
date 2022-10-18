@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c25693e-ddb9-48e2-94f7-3a5545133c01" name="Changes" comment="Чтобы сразу видно было">
+      <change beforePath="$PROJECT_DIR$/DITA-adoc.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dita-adoc" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="275nxtqyNrR5Jal23IeMUoRCNpv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/01-Practise/Вопросики/articles&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dita-adoc" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init trd pro" />
+    <MESSAGE value="init blank article" />
+    <MESSAGE value="init реструктуризация производства" />
+    <MESSAGE value="правки небольшие" />
+    <MESSAGE value="- на —" />
+    <MESSAGE value="trigger warning" />
+    <MESSAGE value="Заголовок и ссылка на ТГ" />
+    <MESSAGE value="Первая редакция новой статьи" />
+    <MESSAGE value="Добавил картинку" />
+    <MESSAGE value="Поправил слешы" />
+    <MESSAGE value="Добавил картинку с иконками и css для окрашивания" />
+    <MESSAGE value="JavaScript, gitignore" />
+    <MESSAGE value="Вторая редакция, добавил немного текста, немного перефразировал" />
+    <MESSAGE value="Финальная редакция, больше не хочу ничего писать" />
+    <MESSAGE value="Вот теперь точно финалочка. Поправил пару опечаток, запятые, формулировочки и т.д." />
+    <MESSAGE value="Закончил вводную часть" />
+    <MESSAGE value="Закончил статью, теперь нужно переделать, чтобы была польза, а не рассказ о себе любимом" />
+    <MESSAGE value="Финальная редакция статьи, которую в очередной раз заминусят и придерутся к какой-нибудь мелочи. Остаётся только перечитать." />
+    <MESSAGE value="Точно финальная редакция, теперь только картинки, но это потом" />
+    <MESSAGE value="Чтобы сразу видно было" />
+    <option name="LAST_COMMIT_MESSAGE" value="Чтобы сразу видно было" />
+  </component>
+</project>
